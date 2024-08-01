@@ -8,6 +8,7 @@ class WhickApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//test
 	}
 
 }
